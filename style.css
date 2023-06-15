@@ -5,7 +5,9 @@ html{
 }
 
 body{
-    margin: 0;
+    width: 720px;
+    height: 1500px;
+    margin: 0 auto;  
     font-family: 'Ubuntu', sans-serif;
     font-size: 12px;
     min-height: 100vh;
